@@ -6,5 +6,5 @@
 1. Trần Quang An Quốc - 20127304 - Github: [20127304-AQ](https://github.com/20127304-AQ)
 2. Đỗ Đạt Thành - 20127411 - Github: [datthanh1942](https://github.com/datthanh1942)
 # Info about our Repository
-5. **20127304_20127411.ipynb**: our notebook for the final seminar
-6. **shopping_trends.csv**: out dataset file .csv
+1. **20127304_20127411.ipynb**: our notebook for the final seminar
+2. **shopping_trends.csv**: out dataset file .csv
