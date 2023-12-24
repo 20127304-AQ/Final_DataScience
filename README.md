@@ -8,3 +8,5 @@
 # Info about our Repository
 1. **20127304_20127411.ipynb**: our notebook for the final seminar
 2. **shopping_trends.csv**: out dataset file .csv
+# Plan distribution
+[Plan distribution](https://docs.google.com/spreadsheets/d/1t1Nlr0L6e1KNpEk2KJGp4d46KFOT9Xuc/edit?usp=drive_link&ouid=104417596045862422812&rtpof=true&sd=true) 
